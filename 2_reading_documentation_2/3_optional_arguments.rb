@@ -17,4 +17,7 @@
 
 
 #I can't study effectively right now.
+#picking this up now - waited until the next day.
+
+
 
