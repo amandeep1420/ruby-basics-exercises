@@ -20,4 +20,4 @@ end
 # I get the feeling that my solution won't match the book...
 
 # our solutions are somewhat similar - they declared a new variable for the integer conversion but I think that's optional here.
-# they didn't use next at all.
+# they didn't use next at all. They declared the variables inside the loop. They had to include multiple break statements for 'q'.
