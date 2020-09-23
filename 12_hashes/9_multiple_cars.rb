@@ -1,3 +1,5 @@
+#***IMPORTANT TO REVIEW***
+
 # my answer:
 
 vehicles = {
@@ -12,7 +14,7 @@ vehicles = {
 # 100% correct - I like the book solution's formatting better. book solution below:
 
 {
-  car:   { type: 'sedan', color: 'blue', year: 2003 },
+  car:   { type: 'sedan', color: 'blue', year: 2003 },          # this syntax structure is incredibly readable.
   truck: { type: 'pickup', color: 'red', year: 1998 }
 }
 
