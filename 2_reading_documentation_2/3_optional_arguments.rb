@@ -19,5 +19,15 @@
 #I can't study effectively right now.
 #picking this up now - waited until the next day.
 
+#See below for a helpful explanation regarding the interpretation of the .split method explanation on the rubydoc site:
 
+=begin
+The documentation for String#split shows that its signature is:
 
+split(pattern=nil, [limit]) → anArray
+
+This signature shows two different ways that the ruby documentation shows optional arguments; 
+the first form (pattern=nil) is used when an optional argument has a default value, 
+while the [] in [limit] tells us that this is an optional argument with no default value. 
+You will sometimes see square brackets around optional arguments that have default values; we'll see this in another exercise later on.
+=end
