@@ -1,0 +1,3 @@
+# my answer: undefined? A is only declared within the scope of the block...hm...
+
+# correct. scoping rules apply both ways, and this references what we learned/ingrained into habit with regards to local variable declaration.
