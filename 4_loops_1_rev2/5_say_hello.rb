@@ -8,6 +8,7 @@ while say_hello
 end
 
 # there are a few different ways to go about this, and I'm not sure which way is desired for the solution.
+# I didn't loop five times.
 
 # book solution - they incremented a 'counter' variable:
 
