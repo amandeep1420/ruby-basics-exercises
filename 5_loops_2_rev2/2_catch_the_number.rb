@@ -7,6 +7,7 @@ loop do
 end
 
 # achieves desired result, but the book solution uses the .between? method. elegance/simplicity was not the goal here.
+# this is the second time I've forgotten that the .between? method exists.
 # see below:
 
 loop do 
