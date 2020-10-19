@@ -30,7 +30,7 @@ puts "#{numerator} / #{denominator} is #{numerator/denominator}"
 
 # I get the feeling my solution is way too long...
 
-# correct - in fact, my code is a little more succinct.
+# correct - in fact, my code is a little more succinct.       # it's more succinct because you aren't checking for a 0...
 # make note of how they declared the variables locally immediately before using them vs. at the beginning of the program.
 # they also declared a new variable for the quotient instead of interpolating like me - their method is more desirable if using more than once.
 # good work!
