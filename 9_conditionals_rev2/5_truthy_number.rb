@@ -1,11 +1,6 @@
 # my answer:
 
-0
-1
-2
-3
-4
-10
+My favorite number is 7.
 
 # correct.
 
